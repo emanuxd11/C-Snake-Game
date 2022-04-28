@@ -1,7 +1,6 @@
 #include <ncurses.h>
 #include <stdlib.h>
 #include <time.h>
-#include <math.h>
 
 #define SCR_WIDTH 51
 #define SCR_HEIGHT 21
